@@ -1,7 +1,6 @@
 import Layout from './components/Layout';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { publicRoute } from './routes';
-import CustomizedSwitches from './components/button';
 
 function App() {
     return (

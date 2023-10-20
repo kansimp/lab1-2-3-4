@@ -3,8 +3,6 @@ import styles from './Layout.module.scss';
 import { useState } from 'react';
 import { AppBar, Tab, Tabs } from '@mui/material';
 import { Link, useLocation } from 'react-router-dom';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMoon, faSun } from '@fortawesome/free-solid-svg-icons';
 import { styled } from '@mui/material/styles';
 import FormGroup from '@mui/material/FormGroup';
 import FormControlLabel from '@mui/material/FormControlLabel';
